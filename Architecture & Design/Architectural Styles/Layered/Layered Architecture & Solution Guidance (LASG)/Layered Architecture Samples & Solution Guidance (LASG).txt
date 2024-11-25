@@ -1,0 +1,8 @@
+http://layerguidance.codeplex.com
+
+
+
+http://layersample.codeplex.com/
+
+
+http://serena-yeoh.blogspot.in/2013/06/layered-architecture-for-net.html

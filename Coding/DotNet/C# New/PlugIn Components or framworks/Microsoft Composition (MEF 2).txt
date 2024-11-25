@@ -1,0 +1,4 @@
+Managed Extensibility Framework MEF is now
+
+
+Microsoft Composition (MEF 2)

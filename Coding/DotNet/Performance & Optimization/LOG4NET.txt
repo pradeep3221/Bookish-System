@@ -1,0 +1,33 @@
+http://www.codeproject.com/Articles/14819/How-to-use-log4net
+
+
+http://www.codeproject.com/Articles/140911/log4net-Tutorial
+
+http://www.codeproject.com/Articles/15923/Configure-Log4Net-in-ASP-NET-2-0 
+
+http://riderdesign.com/articles/displayarticle.aspx?articleid=1
+
+
+-----------------------------
+NLog is a free logging platform for .NET with rich log routing and management capabilities
+
+
+--------------
+SmartInspect, our advanced logging tool for .NET applications
+
+
+-------------
+
+
+https://code.google.com/p/elmah/
+
+
+
+http://stackoverflow.com/questions/2304861/are-asp-net-health-monitoring-and-elmah-alternatives-of-each-other
+
+
+
+log4net
+
+
+NLogEx

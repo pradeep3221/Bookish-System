@@ -1,0 +1,24 @@
+"Tier indicates a physical separation of components, which may mean different assemblies such as DLL, EXE, etc. on the same server or multiple servers."
+
+and 
+
+" Layer indicates logical separation of components, such as having distinct namespaces and classes for the Database Access Layer, Business Logic Layer and User Interface Layer." reside on the same physical computer(same tier)
+
+___________________________________________________________________________________________________________
+
+N-layers of application may reside on the same physical computer(same tier) and the components in each layer communicates with the components of other layer by well defined interfaces. Layered architecture focuses on the grouping of related functionality within an application into distinct layers that are stacked vertically on top of each other. Communication between layers is explicit and loosely coupled. With strict layering, components in one layer can interact only with components in the same layer or with components from the layer directly below it.
+
+The main benefits of the layered architectural style are:
+Abstraction,Isolation, Manageability, Performance, Reusability, Testability.
+
+N-tier architecture usually has atleast three separate logical parts, each located on separate physical server. Each tier is responsible for a specific functionality. Each tier is completely independent from all other tiers, except for those immediately above and below it. Communication between tiers is typically asynchronous in order to support better scalability.
+
+The main benefits of tier achitecture styles are:
+
+Maintainability: Because each tier is independent of the other tiers, updates or changes can be carried out without affecting the application as a whole.
+Scalability: Because tiers are based on the deployment of layers, scaling out an application is reasonably straightforward.
+Flexibility: Because each tier can be managed or scaled independently, flexibility is increased.
+Availability: Applications can exploit the modular architecture of enabling systems using easily scalable components, which increases availability.
+
+___________________________________________________________________________________________________________
+

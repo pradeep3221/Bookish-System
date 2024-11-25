@@ -1,0 +1,71 @@
+Microsoft Application Center Test 1.0, Visual Studio .NET Edition
+http://msdn.microsoft.com/en-us/library/aa287410(v=vs.71).aspx
+
+
+
+--------------------------------------
+
+http://performance-testing.org/content/performance-testing-articles
+http://stackoverflow.com/questions/340564/best-way-to-stress-test-a-website
+
+selenium
+
+
+----
+ANTS Load by Red Gate Software
+http://www.codeproject.com/Articles/8221/Load-testing-for-NET-Developers-and-testers
+---------------------
+http://www.opensourcetesting.org/performance.php
+
+The Grinder - The Grinder is a load testing framework that makes it easy to run a distributed test using many load injector machines. Test scripts are written in Jython, and HTTP scripts can be recorded easily from a browser session.
+
+Pylot - Pylot is a free open source tool for testing performance and scalability of web services. It runs HTTP load tests, which are useful for capacity planning, benchmarking, analysis, and system tuning.
+
+Web Capacity Analysis Tool (WCAT) - Web Capacity Analysis Tool (WCAT) is a lightweight HTTP load generation tool primarily designed to measure the performance of a web server within a controlled environment. WCAT can simulate thousands of concurrent users making requests to a single web site or multiple web sites. The WCAT engine uses a simple script to define the set of HTTP requests to be played back to the web server. Extensibility is provided through plug-in DLLs and a standard, simple API.
+
+fwptt - fwptt it's a Web application tester program for load testing web applications. It can record normal and ajax requests. I tested it on asp.net applications, but it should work with jsp, php or other.
+
+JCrawler - JCrawler is an open-source (under the CPL) Stress-Testing Tool for web-applications. It comes with the crawling/exploratory feature. You can give JCrawler a set of starting URLs and it will begin crawling from that point onwards, going through any URLs it can find on its way and generating load on the web application
+
+Apache JMeter – JMeter is open source software, a 100% pure Java desktop application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+
+Siege - Siege is an http load testing and benchmarking utility. It was designed to let web developers measure their code under duress, to see how it will stand up to load on the internet. Siege supports basic authentication, cookies, HTTP and HTTPS protocols. It lets its user hit a web server with a configurable number of simulated web browsers.
+
+http_load - http_load runs multiple http fetches in parallel, to test the throughput of a web server. However unlike most such test clients, it runs in a single process, so it doesn't bog down the client machine. It can be configured to do https fetches as well
+
+Web Polygraph - Web Polygraph is a freely available performance testing tool for caching proxies, origin server accelerators, L4/7 switches, content filters, and other Web intermediaries
+
+OpenSTA - OpenSTA is a distributed software testing architecture designed around CORBA. The current toolset has the capability of performing scripted HTTP and HTTPS heavy load tests with performance measurements from Win32 platforms. However, the architectural design means it could be capable of much more.
+
+-----------------------------------
+http://www.wilsonmar.com/1ltprods.htm
+
+---------------------------------------------------------
+Performance test tools 
+http://www.opensourcetesting.org/performance.php
+
+
+http://www.jayphilips.com/2010/01/07/50-open-source-performance-testing-tools/
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Stress Testing
+
+
+http://stackoverflow.com/questions/836608/stress-testing-asp-net-application
+http://stackoverflow.com/questions/340564/best-way-to-stress-test-a-website
+http://dotnet.dzone.com/articles/increase-performance-aspnet
+
+Set debug="true" for debugging, set debug="false" for release.   *****
+http://weblogs.asp.net/scottgu/archive/2006/04/11/442448.aspx
+
+VS 2012
+http://msdn.microsoft.com/en-us/library/dd997551.aspx
+
+
+
+http://blogs.msdn.com/b/alikl/archive/2008/05/05/asp-net-performance-engineering-stress-test-your-architecture-design-and-code.aspx

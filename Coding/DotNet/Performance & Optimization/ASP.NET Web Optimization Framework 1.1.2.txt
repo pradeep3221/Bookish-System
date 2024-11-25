@@ -1,0 +1,6 @@
+http://www.nuget.org/packages/microsoft.aspnet.web.optimization/
+
+
+To install Microsoft ASP.NET Web Optimization Framework, run the following command in the Package Manager Console
+
+PM> Install-Package Microsoft.AspNet.Web.Optimization

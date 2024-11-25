@@ -1,0 +1,41 @@
+http://dotnetdaily.net/tutorials/n-tier-architecture-asp-net/
+
+http://fewagainstmany.com/blog/introduction-to-layered-architecture-part-one 
+http://apparchguide.codeplex.com/  	
+http://www.hanselman.com/blog/AReminderOnThreeMultiTierLayerArchitectureDesignBroughtToYouByMyLateNightFrustrations.aspx 
+
+Chapter 5: Layered Application Guidelines
+https://msdn.microsoft.com/en-us/library/ee658109.aspx ****
+Solution Development Fundamentals
+https://msdn.microsoft.com/en-us/library/ff921347.aspx
+
+https://layerguidance.codeplex.com/ 
+https://layersample.codeplex.com/releases 
+http://serena-yeoh.blogspot.in/2013/06/layered-architecture-for-net.html  ************
+http://serena-yeoh.blogspot.in/2014/01/layered-architecture-components.html 
+
+
+
+Application Architecture Guide Layer Diagrams - VS 2013
+
+
+http://www.guidanceshare.com/wiki/Main_Page
+
+
+Designing Code and User Interfaces
+https://msdn.microsoft.com/en-us/library/jj159160.aspx
+
+
+
+
+http://apparch.codeplex.com/
+http://apparch.codeplex.com/wikipage?title=Checklists  *******@@@@@@@@@@@@@@@@@
+
+
+http://sidvall.codeplex.com/
+http://xdotnet.codeplex.com/ 
+
+http://radstudio.codeplex.com/ 
+
+
+http://stackoverflow.com/questions/5242429/what-is-facade-design-pattern

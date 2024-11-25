@@ -1,0 +1,1 @@
+Using Script reference Profiler to Improve the Performance of an ASP.NET AJAX page

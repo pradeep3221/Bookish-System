@@ -1,0 +1,25 @@
+BLL contains business logic of your code, so what you need to do is:
+
+1.Create a function in DAL to retrieve the data.
+2. Create a function in BAL and apply any conditions or business logics if any. From BAL, you will call your DAL function and pass the parameters to BAL. From this BAL function return the data you get from DAL function to your page.
+3. Just call the BAL function and bind the dropdown from the data returned from BAL.
+
+
+____________________________________________________________
+
+http://forums.asp.net/t/1934101.aspx
+http://imar.spaanjaars.com/420/building-layered-web-applications-with-microsoft-aspnet-20-part-3
+
+
+
+
+3 tier architecture 
+in .net 2.0
+http://msdn.microsoft.com/en-us/library/aa581779.aspx    
+http://dotnetstories.wordpress.com/2008/11/26/working-with-dal-data-access-layer-bllbusiness-logic-layer-in-aspnet-web-applications/
+
+
+http://msdn.microsoft.com/en-us/library/ff650706.aspx
+
+http://msdn.microsoft.com/en-us/library/ff921347.aspx
+http://msdn.microsoft.com/en-us/library/ff921348.aspx

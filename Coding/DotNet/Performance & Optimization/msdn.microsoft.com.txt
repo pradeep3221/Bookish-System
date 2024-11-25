@@ -1,0 +1,11 @@
+http://www.codeproject.com/Articles/23306/10-ASP-NET-Performance-and-Scalability-Secrets 
+
+http://msdn.microsoft.com/en-us/library/ff649152.aspx 
+
+http://msdn.microsoft.com/en-us/library/ff647802.aspx 
+
+http://msdn.microsoft.com/en-us/library/ff647768.aspx 
+
+
+
+http://www.iis.net/downloads/microsoft/application-initialization

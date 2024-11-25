@@ -1,0 +1,20 @@
+Common Design Patterns in C# 4.0 ******************* with explanation too
+https://csharpdesignpatterns.codeplex.com/
+
+
+https://github.com/search?l=C%23&q=design+pattern&type=Repositories&utf8=%E2%9C%93
+
+
+
+https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/
+https://github.com/exceptionnotfound/DesignPatterns
+
+
+https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm 
+
+http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns.html **************
+http://best-practice-software-engineering.ifs.tuwien.ac.at/patternmap.html 
+
+
+1Professional ASP.NET Design Patterns samples
+https://github.com/mono0926/Professional-ASP.NET-Design-Patterns

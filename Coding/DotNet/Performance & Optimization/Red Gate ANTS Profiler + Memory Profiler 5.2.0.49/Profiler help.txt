@@ -1,0 +1,5 @@
+http://www.red-gate.com/supportcenter/Content?p=ANTS%20Performance%20Profiler&c=ANTS_Performance_Profiler/help/5.2/APP_Getting_started.htm&toc=ANTS_Performance_Profiler/help/5.2/toc.htm
+
+
+
+http://stackoverflow.com/questions/3927/what-are-some-good-net-profilers
